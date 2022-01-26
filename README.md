@@ -1,4 +1,4 @@
-### Hi there 👋
+### LIKETV 챠트개발 👋
 
 <!--
 **yamong/yamong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
